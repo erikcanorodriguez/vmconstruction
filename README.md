@@ -3,7 +3,7 @@
 </p>
 
 <h1>Mastering Azure: A Beginner's Guide to Creating Virtual Machines! </h1>
-This tutorial outlines the construction of creating a Virtual Machine within Azure<br />
+This tutorial outlines the construction of creating a Virtual Machine within Azure.<br />
 
 
 <h2>Video Demonstration</h2>
